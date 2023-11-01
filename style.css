@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+
+/* INDEX STYLE */
+
+
+.main-nav {
+    background-color: #CDAE33;
+}
+
+.hero-image img {
+    width: 100%;
+}
+
+#our-services {
+    background-color: #CDAE33;
+}
+
+#footer {
+    background-color: #252323;
+}
+
+
+/* SERVICES STYLE */
+
+#title-services {
+    background-color: #252323;
+    background-size: cover;
+    color: #fff;
+}
